@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+}
+header{
+    color: rgb(198, 218, 21);
+    font-size: 25px;
+    font-family: fantasy;
+    font-weight: 2000;
+}
+.result{
+    font-style: italic;
+    font-size: 25px;
+}
+.clear{
+    color: crimson;
+}
